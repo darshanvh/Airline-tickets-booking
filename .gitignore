@@ -1,0 +1,21 @@
+# Node and PHP
+node_modules/
+vendor/
+
+# Environment
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs and system files
+*.log
+Thumbs.db
+.DS_Store
+
+# Uploads (do not version large user uploads)
+uploads/
+
+# Composer
+composer.lock
